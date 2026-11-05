@@ -14,7 +14,6 @@ Após a publicação da primeira release, a versão suportada será:
 
 ## Reportar uma vulnerabilidade
 
-**O reporte privado pelo GitHub ainda não está habilitado neste repositório.** Até que a configuração seja ativada e este aviso atualizado, não há canal privado de reporte publicado. Não inclua detalhes sensíveis de vulnerabilidades em issues públicas.
+Use o [formulário privado de reporte de vulnerabilidade do GitHub](https://github.com/valentesolucoes/panora-releases/security/advisories/new) para enviar detalhes aos responsáveis pelo repositório. O reporte é privado e não deve ser publicado como issue.
 
-Quando disponível, o canal oficial será o recurso Private Vulnerability Reporting deste repositório, acessível pela página Security > Advisories do GitHub. O GitHub apresenta o formulário privado de reporte quando o recurso está habilitado.
-
+O canal pode ser acessado também pela página **Security > Advisories** deste repositório, em **Report a vulnerability**. Não inclua detalhes sensíveis de vulnerabilidades em issues públicas.
