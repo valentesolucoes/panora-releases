@@ -2,6 +2,8 @@
 
 O **Panora** distribui e organiza wallpapers em Macs com vários monitores, com controles acessíveis pela barra de menus.
 
+![Ilustração do Panora organizando wallpapers em dois monitores](docs/images/panora-overview.svg)
+
 ## Recursos
 
 - Wallpapers estáticos e dinâmicos, incluindo pares para as aparências Claro e Escuro.
