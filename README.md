@@ -2,7 +2,7 @@
 
 O **Panora** distribui e organiza wallpapers em Macs com vários monitores, com controles acessíveis pela barra de menus.
 
-![Ilustração do Panora organizando wallpapers em dois monitores](docs/images/readme.png)
+![Apresentação do Panora](docs/images/readme.png)
 
 ## Recursos
 
@@ -20,15 +20,15 @@ O **Panora** distribui e organiza wallpapers em Macs com vários monitores, com 
 
 ## Disponibilidade
 
-A primeira versão planejada para distribuição é a **1.0.0**. O instalador ainda não está publicado. Quando a versão estiver disponível, os arquivos de instalação serão anunciados na página de releases deste repositório.
+A versão estável **Panora 1.0.0 (build 3)** está disponível na [release v1.0.0](https://github.com/valentesolucoes/panora-releases/releases/tag/v1.0.0). O pacote é uma compilação Universal para Intel e Apple Silicon; a compilação foi confirmada tecnicamente, mas ainda não foi testada fisicamente em um Mac Apple Silicon.
 
 O código-fonte principal do Panora é mantido em um repositório privado. Este repositório público é destinado à documentação e aos artefatos oficiais de distribuição.
 
 ## Instalação
 
-Depois que uma release for publicada:
+Para instalar a versão 1.0.0:
 
-1. Baixe o DMG anexado à release oficial.
+1. Baixe o DMG anexado à [release oficial v1.0.0](https://github.com/valentesolucoes/panora-releases/releases/tag/v1.0.0).
 2. Baixe também o arquivo de checksum SHA-256 correspondente e deixe ambos na mesma pasta.
 3. No Terminal, dentro dessa pasta, confira a integridade do DMG com:
 
